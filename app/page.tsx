@@ -14,7 +14,7 @@ export default function HomePage() {
           transition={{ duration: 0.8 }}
           className="text-5xl sm:text-6xl font-bold mb-4"
         >
-          Welcome to Faizan's World 🌍
+          Welcome to Faizan&apos;s World 🌍
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
